@@ -1,4 +1,3 @@
-
 <html>
 <title>Curriculo</title>
 <meta charset="UTF-8">
